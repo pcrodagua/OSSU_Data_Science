@@ -5,7 +5,7 @@ The ability to learn everyday is a gift, getting the right manual to learn will 
 Recommended book: a mind for numbers.
 
 ---
-### Introduction: Focused vs. Diffuse Learning
+### Introduction: Focused vs.. Diffuse Learning
 
 
 If we know how the brain works, we can learn more easily, with less frustration.
@@ -63,6 +63,57 @@ www.brainfacts.org (learning & memory)
 
 
 ### Procrastination Memory & Sleep
+
+#### A Procrastination Preview
+*Insular cortex* stops negative stimulation by switching to other activities.
+
+1. Unhappy Feeling
+2. You funnel attention onto a more pleasant task
+3. Feel happy (temporarily)
+
+**Technique recommended:** A way to help is using a pomodoro, is a timer that often looks like a tomato. 
+* set timer to 25 minutes
+* no interruptions
+* focus
+* reward(websurfing, stretching, candy, etc...)
+
+#### Practice makes Permanent
+Gradually begin to figure out some tricks. 
+
+Cow example.
+
+For mathematical ideas there is no abstract equate to terms.
+The more abstract the concept is, the more is needed to practice.
+
+**Practice makes permanent:** The idea is to go down the path without looking at the solution, creating new patterns. This can be done by focusing on studying.
+
+**Building strong neural structures:** the idea is to work a little bit on it every day.
+
+
+#### Introduction to Memory
+ 
+**Working Memory:** Part of memory due to what is immediately processing in the prefrontal cortex. Group memory items into chunks of memories, the idea is to try repeating concepts(try to work).  
+
+
+**Long Term Memory:** This kind of memory is all over the brain, there can be so many memories on it. This memory type is important so 
+
+New concepts enter onto working memory, if we want to add it to long term memory we should repeat it a lot of times.
+
+**Technique recommended:** Space Repetition, it consist of repeating a certain vocabulary or information all over a week(repeat 20 times each day).
+
+#### The importance of Sleep
+When we are awake, the brain creates Poisson in a brain, sleeping removes this toxins.
+
+Not sleeping creates:
+* Diabetes
+* Headaches
+* Depression
+* Heart disease
+
+When we are sleep, the brain erases the less important aspects of learning renforcing the concepts tightening them up. This helps putting up neural solutions on concepts
+
+#### Interview with Dr Terrance
+
 
 ### Summary
 
